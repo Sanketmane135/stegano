@@ -164,8 +164,8 @@ export default function DecodePage() {
           </label>
         {
         imagePreview && (
-          <div className="w-full flex flex-col  items-center justify-center ">
-              <button htmlFor="decode" onClick={()=>{setImagePreview(null)}}>X</button>
+          <div className=" relative w-full flex flex-col  items-center justify-center ">
+              <button className="absolute top-2 right-20 px-2 py-1 rounded-full -mt-3 bg-red-600" htmlFor="decode" onClick={()=>{setImagePreview(null);setSelectedImage(null)}}>X</button>
                <img src={imagePreview} alt="preview" className="w-40 rounded-md border border-gray-700 mb-4" />
           </div>
         )
@@ -182,13 +182,13 @@ export default function DecodePage() {
         </button>
 
         {extractedMessage ? (
-          <div className="bg-gray-700 p-4 rounded ">
+          <div className="bg-[#13192a] p-4 rounded ">
             <h3 className="font-medium mb-2">Hidden message</h3>
-            <pre className="whitespace-pre-wrap break-words text-green-200">{extractedMessage}</pre>
+            <label className="font-sans w-50 h-auto  p-1 border border-gray-600 bg-[#192238] rounded text-white">{extractedMessage}</label>
             <div className="mt-3 flex gap-2">
               <button
                 onClick={copyToClipboard}
-                className="bg-transparent border border-green-600 text-green-200 px-3 py-1 rounded"
+                className="bg-green-600 border border-green-600 text-white px-3 py-1 rounded"
               >
                 Copy
               </button>

@@ -19,7 +19,8 @@ function Features() {
      
         <div class="bg-[#0B0F19] border border-transparent hover:border-pink-500 hover:shadow-lg hover:shadow-blue-500/20 rounded-xl p-6 transition duration-300 ease-in-out">
             <div class="flex items-center justify-center w-12 h-12 rounded-lg bg-[#111827] text-pink-500 mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="#5985E1"><path d="M426-360h108l-24.33-139.67q20-9.33 31.83-27.33 11.83-18 11.83-39.67 0-30.33-21.5-51.83T480-640q-30.33 0-51.83 21.5t-21.5 51.83q0 21.67 11.83 39.67t31.83 27.33L426-360Zm54 279.33q-139.67-35-229.83-161.5Q160-368.67 160-520.67v-240l320-120 320 120v240q0 152-90.17 278.5Q619.67-115.67 480-80.67Zm0-69.33q111.33-36.33 182.33-139.67 71-103.33 71-231v-193.66L480-809.67l-253.33 95.34v193.66q0 127.67 71 231Q368.67-186.33 480-150Zm0-330Z"/></svg>            </div>
+                <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#ff0088"><path d="M429-360h102l-25-145q20-9 32-26.5t12-38.5q0-29-20.5-49.5T480-640q-29 0-49.5 20.5T410-570q0 21 12 38.5t32 26.5l-25 145Zm51 279q-140-35-230-162.5T160-523v-238l320-120 320 120v238q0 152-90 279.5T480-81Zm0-62q115-38 187.5-143.5T740-523v-196l-260-98-260 98v196q0 131 72.5 236.5T480-143Zm0-337Z"/></svg>         
+            </div>
             <h3 class="text-lg font-semibold text-white mb-2">
             Invisible Encryption
             </h3>
@@ -31,7 +32,8 @@ function Features() {
  
       <div class="bg-[#0B0F19] border border-transparent hover:border-pink-500 hover:shadow-lg hover:shadow-blue-500/20 rounded-xl p-6 transition duration-300 ease-in-out">
             <div class="flex items-center justify-center w-12 h-12 rounded-lg bg-[#111827] text-pink-500 mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="#5985E1"><path d="M226.67-80q-27.5 0-47.09-19.58Q160-119.17 160-146.67v-422.66q0-27.5 19.58-47.09Q199.17-636 226.67-636h60v-90.67q0-80.23 56.57-136.78T480.07-920q80.26 0 136.76 56.55 56.5 56.55 56.5 136.78V-636h60q27.5 0 47.09 19.58Q800-596.83 800-569.33v422.66q0 27.5-19.58 47.09Q760.83-80 733.33-80H226.67Zm0-66.67h506.66v-422.66H226.67v422.66ZM480.11-280q32.22 0 55.06-22.52Q558-325.04 558-356.67q0-31-22.95-55.16Q512.11-436 479.89-436t-55.06 24.17Q402-387.67 402-356.33q0 31.33 22.95 53.83 22.94 22.5 55.16 22.5ZM353.33-636h253.34v-90.67q0-52.77-36.92-89.72-36.93-36.94-89.67-36.94-52.75 0-89.75 36.94-37 36.95-37 89.72V-636ZM226.67-146.67v-422.66 422.66Z"/></svg>            </div>
+               <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#ff0088"><path d="M220-80q-24.75 0-42.37-17.63Q160-115.25 160-140v-434q0-24.75 17.63-42.38Q195.25-634 220-634h70v-96q0-78.85 55.61-134.42Q401.21-920 480.11-920q78.89 0 134.39 55.58Q670-808.85 670-730v96h70q24.75 0 42.38 17.62Q800-598.75 800-574v434q0 24.75-17.62 42.37Q764.75-80 740-80H220Zm0-60h520v-434H220v434Zm260.17-140q31.83 0 54.33-22.03T557-355q0-30-22.67-54.5t-54.5-24.5q-31.83 0-54.33 24.5t-22.5 55q0 30.5 22.67 52.5t54.5 22ZM350-634h260v-96q0-54.17-37.88-92.08-37.88-37.92-92-37.92T388-822.08q-38 37.91-38 92.08v96ZM220-140v-434 434Z"/></svg>
+            </div>
             <h3 class="text-lg font-semibold text-white mb-2">
             Zero Knowledge
             </h3>
@@ -42,7 +44,8 @@ function Features() {
      
         <div class="bg-[#0B0F19] border border-transparent hover:border-pink-500 hover:shadow-lg hover:shadow-blue-500/20 rounded-xl p-6 transition duration-300 ease-in-out">
             <div class="flex items-center justify-center w-12 h-12 rounded-lg bg-[#111827] text-pink-500 mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="#5985E1"><path d="M284-79.33 451.33-384 120-424l490-456.67h66L508.67-576 840-536 350-79.33h-66Zm185.33-207 221.67-200-287.67-35.34 87-151.66-222 200.66 287.34 34.34-86.34 152ZM480-480Z"/></svg>            </div>
+                <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#ff0088"><path d="m286-79 171-307-337-40 495-455h59L503-574l337 40L345-79h-59Zm167-187 252-223-297-36 99-169-253 224 297 35-98 169Zm27-214Z"/></svg>
+            </div>
             <h3 class="text-lg font-semibold text-white mb-2">
             Lightning Fast
             </h3>
@@ -52,9 +55,9 @@ function Features() {
         </div>
 
 
-        <div class="bg-[#0B0F19] border border-transparent hover:border-pink-500 hover:shadow-lg hover:shadow-blue-500/20 rounded-xl p-6 transition duration-300 ease-in-out">
+        <div class="bg-[#0B0F19] border border-transparent hover:border-pink-500 hover:shadow-lg hover:shadow-pink-500/20 rounded-xl p-6 transition duration-300 ease-in-out">
             <div class="flex items-center justify-center w-12 h-12 rounded-lg bg-[#111827] text-pink-500 mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="#5985E1"><path d="M446.67-315.33v-356L332-556.67l-47.33-48L480-800l195.33 195.33-47.33 48-114.67-114.66v356h-66.66ZM226.67-160q-27 0-46.84-19.83Q160-199.67 160-226.67V-362h66.67v135.33h506.66V-362H800v135.33q0 27-19.83 46.84Q760.33-160 733.33-160H226.67Z"/></svg>            </div>
+               <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#ff0088"><path d="M450-313v-371L330-564l-43-43 193-193 193 193-43 43-120-120v371h-60ZM220-160q-24 0-42-18t-18-42v-143h60v143h520v-143h60v143q0 24-18 42t-42 18H220Z"/></svg>            </div>
             <h3 class="text-lg font-semibold text-white mb-2">
             Multiple Formats
             </h3>
@@ -64,9 +67,9 @@ function Features() {
         </div>
  
      
-        <div class="bg-[#0B0F19] border border-transparent hover:border-pink-500 hover:shadow-lg hover:shadow-blue-500/20 rounded-xl p-6 transition duration-300 ease-in-out">
+        <div class="bg-[#0B0F19] border border-transparent hover:border-pink-500 hover:shadow-lg hover:shadow-pink-500/20 rounded-xl p-6 transition duration-300 ease-in-out">
             <div class="flex items-center justify-center w-12 h-12 rounded-lg bg-[#111827] text-pink-500 mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="#5985E1"><path d="M480-315.33 284.67-510.67l47.33-48L446.67-444v-356h66.66v356L628-558.67l47.33 48L480-315.33ZM226.67-160q-27 0-46.84-19.83Q160-199.67 160-226.67V-362h66.67v135.33h506.66V-362H800v135.33q0 27-19.83 46.84Q760.33-160 733.33-160H226.67Z"/></svg>            </div>
+                <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#ff0088"><path d="M480-313 287-506l43-43 120 120v-371h60v371l120-120 43 43-193 193ZM220-160q-24 0-42-18t-18-42v-143h60v143h520v-143h60v143q0 24-18 42t-42 18H220Z"/></svg>           </div>
             <h3 class="text-lg font-semibold text-white mb-2">
            Easy Sharing
             </h3>
@@ -77,7 +80,8 @@ function Features() {
 
      <div class="bg-[#0B0F19] border border-transparent hover:border-pink-500 hover:shadow-lg hover:shadow-blue-500/20 rounded-xl p-6 transition duration-300 ease-in-out">
             <div class="flex items-center justify-center w-12 h-12 rounded-lg bg-[#111827] text-pink-500 mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="#5985E1"><path d="M480.08-326.67q72.25 0 122.75-50.58 50.5-50.57 50.5-122.83 0-72.25-50.58-122.75-50.57-50.5-122.83-50.5-72.25 0-122.75 50.58-50.5 50.57-50.5 122.83 0 72.25 50.58 122.75 50.57 50.5 122.83 50.5Zm-.24-62.66q-46.17 0-78.34-32.33-32.17-32.32-32.17-78.5 0-46.17 32.33-78.34 32.32-32.17 78.5-32.17 46.17 0 78.34 32.33 32.17 32.32 32.17 78.5 0 46.17-32.33 78.34-32.32 32.17-78.5 32.17ZM480-200q-146 0-264.67-82.5Q96.67-365 40-500q56.67-135 175.33-217.5Q334-800 480-800t264.67 82.5Q863.33-635 920-500q-56.67 135-175.33 217.5Q626-200 480-200Zm0-300Zm-.11 233.33q118.44 0 217.61-63.5 99.17-63.5 151.17-169.83-52-106.33-151.06-169.83-99.05-63.5-217.5-63.5-118.44 0-217.61 63.5-99.17 63.5-151.83 169.83 52.66 106.33 151.72 169.83 99.05 63.5 217.5 63.5Z"/></svg>            </div>
+              <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#ff0088"><path d="M480.12-330q70.88 0 120.38-49.62t49.5-120.5q0-70.88-49.62-120.38T479.88-670Q409-670 359.5-620.38T310-499.88q0 70.88 49.62 120.38t120.5 49.5Zm-.36-58q-46.76 0-79.26-32.74-32.5-32.73-32.5-79.5 0-46.76 32.74-79.26 32.73-32.5 79.5-32.5 46.76 0 79.26 32.74 32.5 32.73 32.5 79.5 0 46.76-32.74 79.26-32.73 32.5-79.5 32.5Zm.24 188q-146 0-264-83T40-500q58-134 176-217t264-83q146 0 264 83t176 217q-58 134-176 217t-264 83Zm0-300Zm-.17 240Q601-260 702.5-325.5 804-391 857-500q-53-109-154.33-174.5Q601.34-740 480.17-740T257.5-674.5Q156-609 102-500q54 109 155.33 174.5Q358.66-260 479.83-260Z"/></svg>
+            </div>
             <h3 class="text-lg font-semibold text-white mb-2">
          Forensic Resistant
             </h3>
