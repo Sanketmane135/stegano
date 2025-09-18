@@ -7,7 +7,7 @@ function Footer() {
     
     <div>
       <div class="flex items-center gap-2 mb-4">
-        <div class="h-8 w-8 rounded-full bg-blue-600 flex items-center justify-center">
+        <div class="h-8 w-8 rounded-full bg-pink-600 flex items-center justify-center">
           <span class="text-sm font-bold text-white">S</span>
         </div>
         <span class="font-semibold text-xl text-white">Stegano</span>
